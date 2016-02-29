@@ -1,0 +1,11 @@
+[info]
+title=CSS Prefixer
+desc=Inserts vendor prefixes into CSS code
+type=cudatext-plugin
+subdir=cuda_css_prefixer
+
+[item1]
+section=commands
+caption=CSS Prefixer
+method=run
+lexers=CSS
